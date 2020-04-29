@@ -94,3 +94,14 @@ The System Shock source code is available under the terms of the GNU
 General Public License v3.0
 
 See COPYING.txt for the GNU GENERAL PUBLIC LICENSE
+
+
+NOTE
+=======
+
+I have done mac2unix conversion on all the source files as a reference point. I
+do not plan to do anything else with this code at this time. I leave it here
+for those who are curious.
+
+If you want to see something done with this source code then goto the awesome
+Shockolate project at https://github.com/Interrupt/systemshock
